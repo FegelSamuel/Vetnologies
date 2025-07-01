@@ -7,6 +7,9 @@ New Repository for Pet-IT's rebranding interest.
 npm i
 ```
 ```bash
+npx prisma generate
+```
+```bash
 npm run build
 ```
 
