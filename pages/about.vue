@@ -2,7 +2,7 @@
 div(class="p-16")
     div(class="flex flex-box grid-cols-2 gap-2 size-full")
         img(src="/assets/genericITPicture.jpg" class="h-128 mr-32")
-        h1(class="text-4xl font-bold ml-16 mt-8 font-tektur") ABOUT US
+        h1(class="text-4xl ml-16 mt-8 font-tektur") ABOUT US
             div(class="text-xl font-sans text-black font-normal") Vetnology started in 2002, by an Electrical Engineer who was highly movitaved to help veterinary practices enter the world of digital information and technology.
     div(class="flex flex-box grid-cols-2 gap-2 size-full")
         div(class="text-xl font-sans") At Vetnology, we are passionate about providing reliable, tailored IT solutions for small businesses and individuals. With 20+ years of experience in the technology sector, our team specializes in network setup, troubleshooting, cybersecurity, and remote support to keep your digital operations running smoothly.
