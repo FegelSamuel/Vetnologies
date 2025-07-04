@@ -36,11 +36,13 @@ div(class="grid gap-6 p-6 text-gray-800")
 
   // Managed IT Services
   div(class="bg-white p-6 rounded-xl shadow-md")
-    h2(class="text-2xl font-bold mb-4") Managed IT Services
+    div(class="flex flex-box grid-cols-2")
+        h2(class="text-2xl font-bold mb-4") Managed IT Services
+        Shield()
     ul(class="list-disc list-inside space-y-2")
-      li Proactive monitoring and maintenance
-      li Regular security updates and patch management
-      li Data backup and recovery planning
+        li Proactive monitoring and maintenance
+        li Regular security updates and patch management
+        li Data backup and recovery planning
 
   // Cloud Services
   div(class="bg-white p-6 rounded-xl shadow-md")
