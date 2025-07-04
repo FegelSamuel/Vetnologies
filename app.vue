@@ -13,8 +13,8 @@ header(class="bg-white shadow-md w-full font-sans-serif")
 
       //- Navigation Links (desktop only)
       nav(class="space-x-4 hidden md:flex")
-        a(href="#" class="text-gray-700 hover:text-cyan-500") Home
-        a(href="#" class="text-gray-700 hover:text-cyan-500") About
+        NuxtLink(to="/" class="text-gray-700 hover:text-cyan-500") Home
+        NuxtLink(to="/about" class="text-gray-700 hover:text-cyan-500") About
         a(href="#" class="text-gray-700 hover:text-cyan-500") Services
         a(href="#" class="text-gray-700 hover:text-cyan-500") Contact
 
