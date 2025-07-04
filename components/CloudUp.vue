@@ -1,5 +1,5 @@
 <template lang="pug">
-svg(xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="url(#grad1)" class="size-6")
+svg(xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="url(#grad1)" class="size-10")
   defs
     linearGradient#grad1(x1="0%" y1="0%" x2="100%" y2="0%")
       stop(offset="0%" stop-color="#4facfe")

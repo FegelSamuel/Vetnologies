@@ -37,7 +37,7 @@ div(class="grid gap-6 p-6 text-gray-800")
   // Managed IT Services
   div(class="bg-white p-6 rounded-xl shadow-md")
     div(class="flex flex-box grid-cols-2")
-        h2(class="text-2xl font-bold mb-4") Managed IT Services
+        h2(class="text-2xl font-bold mb-4 mr-2") Managed IT Services
         Shield()
     ul(class="list-disc list-inside space-y-2")
         li Proactive monitoring and maintenance
@@ -46,11 +46,13 @@ div(class="grid gap-6 p-6 text-gray-800")
 
   // Cloud Services
   div(class="bg-white p-6 rounded-xl shadow-md")
-    h2(class="text-2xl font-bold mb-4") Cloud Services
+    div(class="flex flex-box grid-cols-2")
+        h2(class="text-2xl font-bold mb-4 mr-2") Cloud Services
+        CloudUp()
     ul(class="list-disc list-inside space-y-2")
-      li Cloud storage and file sharing solutions
-      li Cloud-based application management
-      li Migration to cloud platforms (e.g., Microsoft Azure, Google Cloud, AWS)
+        li Cloud storage and file sharing solutions
+        li Cloud-based application management
+        li Migration to cloud platforms (e.g., Microsoft Azure, Google Cloud, AWS)
 
   // Hardware and Software Solutions
   div(class="bg-white p-6 rounded-xl shadow-md")
