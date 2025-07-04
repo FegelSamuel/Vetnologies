@@ -77,7 +77,8 @@ div(class="grid gap-6 p-6 text-gray-800")
   // IT Consulting and Strategy
   div(class="bg-white p-6 rounded-xl shadow-md")
     div(class="flex flex-box grid-cols-2")
-        h2(class="text-2xl font-bold mb-4") IT Consulting and Strategy
+        h2(class="text-2xl font-bold mb-4 mr-2") IT Consulting and Strategy
+        Computer()
     ul(class="list-disc list-inside space-y-2")
         li Technology assessments and planning
         li IT roadmap development
