@@ -44,7 +44,7 @@ useHead({
         h1 {
           font-family: 'Tektur', sans;
           font-size: 48px;
-          background: linear-gradient(to left, green, blue);
+          background: linear-gradient(to left, #09b123, #0090aa, #324aa3);
           -webkit-background-clip: text;
           background-clip: text;
           color: transparent;
@@ -53,7 +53,7 @@ useHead({
         h2 {
           font-family: 'Tektur', sans;
           font-size: 32px;
-          background: linear-gradient(to left, green, blue);
+          background: linear-gradient(to left, #09b123, #0090aa, #324aa3);
           -webkit-background-clip: text;
           background-clip: text;
           color: transparent;

@@ -2,8 +2,9 @@
 svg(xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="url(#grad1)" class="size-10")
     defs
         linearGradient#grad1(x1="0%" y1="0%" x2="100%" y2="0%")
-        stop(offset="0%" stop-color="#4facfe")
-        stop(offset="100%" stop-color="#00f2fe")
+            stop(offset="0%" stop-color="#09b123")
+            stop(offset="50" stop-color="#0090aa")
+            stop(offset="100%" stop-color="#324aa3")
     path(
         stroke-linecap="round"
         stroke-linejoin="round"
