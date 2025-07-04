@@ -86,7 +86,9 @@ div(class="grid gap-6 p-6 text-gray-800")
 
   // Training and User Support
   div(class="bg-white p-6 rounded-xl shadow-md")
-    h2(class="text-2xl font-bold mb-4") Training and User Support
+    div(class="flex flex-box grid-cols-2")
+        h2(class="text-2xl font-bold mb-4 mr-2") Training and User Support
+        Person()
     ul(class="list-disc list-inside space-y-2")
       li Employee technology training sessions
       li Documentation and user manuals
