@@ -7,9 +7,9 @@ div(class="grid gap-6 p-6 text-gray-800")
         h2(class="text-2xl font-bold mb-4 mr-2") Network Setup and Management
         Wifi()
     ul(class="list-disc list-inside space-y-2")
-      li Local area network (LAN) and wide area network (WAN) design and implementation
-      li Network monitoring and performance optimization
-      li Advanced network security protocols (firewalls, VPNs, etc.)
+        li Local area network (LAN) and wide area network (WAN) design and implementation
+        li Network monitoring and performance optimization
+        li Advanced network security protocols (firewalls, VPNs, etc.)
 
   // Cybersecurity Services
   div(class="bg-white p-6 rounded-xl shadow-md")
@@ -18,10 +18,10 @@ div(class="grid gap-6 p-6 text-gray-800")
         // lock icon
         Lock() 
     ul(class="list-disc list-inside space-y-2")
-      li Antivirus and anti-malware solutions
-      li Firewall configuration and management
-      li Intrusion detection and prevention
-      li Security audits and vulnerability assessments
+        li Antivirus and anti-malware solutions
+        li Firewall configuration and management
+        li Intrusion detection and prevention
+        li Security audits and vulnerability assessments
 
   // IT Help Desk and Technical Support
   div(class="bg-white p-6 rounded-xl shadow-md")
@@ -30,9 +30,9 @@ div(class="grid gap-6 p-6 text-gray-800")
         // phone icon
         Phone()
     ul(class="list-disc list-inside space-y-2")
-      li Remote troubleshooting and support
-      li On-site technical assistance
-      li Hardware and software diagnostics and repair
+        li Remote troubleshooting and support
+        li On-site technical assistance
+        li Hardware and software diagnostics and repair
 
   // Managed IT Services
   div(class="bg-white p-6 rounded-xl shadow-md")
