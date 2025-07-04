@@ -56,27 +56,32 @@ div(class="grid gap-6 p-6 text-gray-800")
 
   // Hardware and Software Solutions
   div(class="bg-white p-6 rounded-xl shadow-md")
-    h2(class="text-2xl font-bold mb-4") Hardware and Software Solutions
+    div(class="flex flex-box grid-cols-2")
+        h2(class="text-2xl font-bold mb-4 mr-2") Hardware and Software Solutions
+        LightBulb()
     ul(class="list-disc list-inside space-y-2")
-      li Desktop, laptop, and server setup and maintenance
-      li Software installation, configuration, and updates
-      li Mobile device management
+        li Desktop, laptop, and server setup and maintenance
+        li Software installation, configuration, and updates
+        li Mobile device management
 
   // Data Backup and Recovery
   div(class="bg-white p-6 rounded-xl shadow-md")
-    h2(class="text-2xl font-bold mb-4") Data Backup and Recovery
+    div(class="flex flex-box grid-cols-2")
+        h2(class="text-2xl font-bold mb-4 mr-2") Data Backup and Recovery
+        CircleStack()
     ul(class="list-disc list-inside space-y-2")
-      li Automated backup solutions
-      li Disaster recovery planning and execution
-      li Data restoration services
+        li Automated backup solutions
+        li Disaster recovery planning and execution
+        li Data restoration services
 
   // IT Consulting and Strategy
   div(class="bg-white p-6 rounded-xl shadow-md")
-    h2(class="text-2xl font-bold mb-4") IT Consulting and Strategy
+    div(class="flex flex-box grid-cols-2")
+        h2(class="text-2xl font-bold mb-4") IT Consulting and Strategy
     ul(class="list-disc list-inside space-y-2")
-      li Technology assessments and planning
-      li IT roadmap development
-      li Guidance on digital transformation and business process optimization
+        li Technology assessments and planning
+        li IT roadmap development
+        li Guidance on digital transformation and business process optimization
 
   // Training and User Support
   div(class="bg-white p-6 rounded-xl shadow-md")
