@@ -1,4 +1,5 @@
 <template>
+<!--TODO: convert to pug-->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="size-10" fill="url(#grad1)">
     <defs>
         <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
