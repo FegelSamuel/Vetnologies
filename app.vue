@@ -20,7 +20,8 @@ div(class="sticky top-0 z-50")
                 // Desktop Navigation
                 nav(class="space-x-4 hidden md:flex")
                     h2
-                      NuxtLink(to="/" class="text-gray-700 hover:text-cyan-500") Home
+                      NuxtLink(to="/" class="text-gray-700 hover:text-inherit") Home
+                      // TODO: Ask what the bosses prefer, single color or gradient on hover
                     h2
                       NuxtLink(to="/about" class="text-gray-700 hover:text-cyan-500") About
                     h2
