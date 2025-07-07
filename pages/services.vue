@@ -1,6 +1,5 @@
 <template lang="pug">
-div(class="grid gap-6 p-6 text-gray-800")
-
+div(class="grid gap-6 p-6 text-black")
   // Network Setup and Management
   div(class="bg-white p-6 rounded-xl shadow-md")
     div(class="flex flex-box grid-cols-2")
