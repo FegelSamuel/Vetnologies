@@ -11,8 +11,10 @@
   },
   "dependencies": {
     "@nuxt/fonts": "^0.11.4",
+    "@prisma/client": "^6.11.1",
     "@tailwindcss/vite": "^4.1.11",
     "nuxt": "^3.17.5",
+    "prisma": "^6.11.1",
     "pug": "^3.0.3",
     "tailwindcss": "^4.1.11",
     "vue": "^3.5.17",
