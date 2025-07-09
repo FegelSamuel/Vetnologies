@@ -1,5 +1,5 @@
 <template lang="pug">
-div(class="p-4 lg:p-16")
+div(class="p-4 lg:p-16 mb-8")
     // ABOUT US section
     div(class="flex flex-col lg:flex-row items-center gap-6 w-full")
         img(src="/assets/genericITPicture.jpg" class="w-full max-w-xs lg:max-w-none lg:h-128 lg:mr-32")
