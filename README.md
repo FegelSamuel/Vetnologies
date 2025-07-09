@@ -9,7 +9,7 @@ git clone https://github.com/FegelSamuel/Vetnologies.git
 cd Vetnologies
 ```
 ```bash
-npm i
+npm install
 ```
 ```bash
 npm run dev
