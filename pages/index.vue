@@ -34,7 +34,7 @@ div(class="flex flex-col lg:flex-row items-center gap-6 w-full mt-16 px-4")
             | Veterinary practices handle sensitive patient and client information. We implement advanced security measures, including data encryption, secure mobile access, and compliance with industry regulations, to protect your practice from breaches and costly penalties.
 
 // Reliable Support
-div(class="flex flex-col lg:flex-row items-center gap-6 w-full mt-16 px-4")
+div(class="flex flex-col lg:flex-row items-center gap-6 w-full mt-16 px-4 mb-8")
     h1(class="text-2xl lg:text-4xl  text-center lg:text-left lg:ml-16")
         | Reliable Support When You Need It
         div(class="text-base lg:text-xl font-sans text-black text-center lg:text-left max-w-xl mt-2")
