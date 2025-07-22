@@ -23,11 +23,11 @@ div(class="sticky top-0 z-50")
                       NuxtLink(to="/" class="text-gray-700 hover:text-inherit") Home
                       // TODO: Ask what the bosses prefer, single color or gradient on hover
                     h2
-                      NuxtLink(to="/about" class="text-gray-700 hover:text-cyan-500") About
+                      NuxtLink(to="/about" class="text-gray-700 hover:text-inherit") About
                     h2
-                      NuxtLink(to="/services" class="text-gray-700 hover:text-cyan-500") Services
+                      NuxtLink(to="/services" class="text-gray-700 hover:text-inherit") Services
                     h2
-                      NuxtLink(to="/contact" class="text-gray-700 hover:text-cyan-500") Contact Us
+                      NuxtLink(to="/contact" class="text-gray-700 hover:text-inherit") Contact Us
                       // the idea of the h1 here is to make the header buttons Tektur
 
                 // Mobile Toggle Button
