@@ -26,13 +26,6 @@ div(class="flex flex-col lg:flex-row items-center gap-6 w-full mt-16 px-4")
     a(href="https://covetrus.com/")
         img(src="/assets/covetrusIcon.png" class="max-w-xs lg:max-w-128 lg:ml-16")
 
-// Security & Compliance
-div(class="flex flex-col lg:flex-row items-center gap-6 w-full mt-16 px-4")
-    img(src="/assets/Cyber-Security-Cropped.png" class="max-w-xs lg:max-w-none lg:h-128 lg:ml-16")
-    h1(class="text-2xl lg:text-4xl  mt-4 lg:mt-16 text-center lg:text-left lg:ml-16") Robust Security and Compliance
-        div(class="text-base lg:text-xl font-sans text-black text-center lg:text-left max-w-xl mt-2")
-            | Veterinary practices handle sensitive patient and client information. We implement advanced security measures, including data encryption, secure mobile access, and compliance with industry regulations, to protect your practice from breaches and costly penalties.
-
 // Reliable Support
 div(class="flex flex-col lg:flex-row items-center gap-6 w-full mt-16 px-4")
     h1(class="text-2xl lg:text-4xl  text-center lg:text-left lg:ml-16")

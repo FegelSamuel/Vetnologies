@@ -18,7 +18,7 @@ div(class="sticky top-0 z-50")
                     h1(class="text-xl font-semibold text-gray-700 hidden sm:inline") VETNOLOGIES
 
                 // Desktop Navigation
-                nav(class="space-x-4 hidden md:flex")
+                nav(class="space-x-4 hidden lg:flex")
                     h2
                       NuxtLink(to="/" class="text-gray-700 hover:text-cyan-500") Home
                     h2
@@ -31,7 +31,7 @@ div(class="sticky top-0 z-50")
 
                 // Mobile Toggle Button
                 button(@click="toggleMobileDropdown"
-                       class="md:hidden text-gray-700 focus:outline-none transition-transform duration-300"
+                       class="lg:hidden text-gray-700 focus:outline-none transition-transform duration-300"
                        :class="{ 'rotate-180': showMobileDropdown }")
                     svg(xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-6")
                         path(fill-rule="evenodd" d="M12.53 16.28a.75.75 0 0 1-1.06 0l-7.5-7.5a.75.75 0 0 1 1.06-1.06L12 14.69l6.97-6.97a.75.75 0 1 1 1.06 1.06l-7.5 7.5Z" clip-rule="evenodd")
@@ -88,6 +88,16 @@ useHead({
           background-clip: text;
           color: transparent;
         }
+
+        h3 {
+          font-family: 'Tektur', sans;
+          font-size: 24px;
+          background: linear-gradient(to left, #09b123, #0090aa, #324aa3);
+          -webkit-background-clip: text;
+          background-clip: text;
+          color: transparent;
+        }
+
       .fade-slide-enter-active,
       .fade-slide-leave-active {
           transition: all 0.3s ease-in-out;
