@@ -1,5 +1,5 @@
 <template lang="pug">
-div(class="p-4 md:p-8 lg:p-16 space-y-24")
+div(class="p-4 md:p-8 lg:p-16 space-y-24 mb-8")
 
     // ABOUT US section
     div(class="flex flex-col lg:flex-row items-center lg:items-start gap-8")
@@ -45,3 +45,10 @@ div(class="p-4 md:p-8 lg:p-16 space-y-24")
             class="w-full max-w-[18rem] md:max-w-sm lg:max-w-none lg:w-1/2 object-cover rounded-xl shadow"
         )
 </template>
+<<<<<<< HEAD
+=======
+
+<script setup lang="ts">
+console.log("about page visited")
+</script>
+>>>>>>> 34769710d3500ffdeb941874e689f9177826000f

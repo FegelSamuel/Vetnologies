@@ -98,7 +98,7 @@ console.log("services visited")
 
 <style lang="css">
 .vetnologiesGradient {
-    background: linear-gradient(to left, green, blue);
+    background: linear-gradient(to left, #09b123, #0090aa, #324aa3);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;

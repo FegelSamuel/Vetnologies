@@ -21,13 +21,13 @@ div(class="flex flex-col lg:flex-row items-center gap-6 w-full mt-16 px-4")
         | Expertise in Veterinary Practice Technology
         div(class="text-base lg:text-xl font-sans text-black text-center lg:text-left max-w-xl mt-2")
             | We specialize in veterinary practice management software—such as Impromed, Cornerstone, and more—ensuring seamless integration and reliable support for the systems you rely on every day. Our team is experienced in troubleshooting and optimizing these platforms, so you can focus on what matters most: 
-            span(class="") your patients
+            span(class="font-bold") your patients
             | .
     a(href="https://covetrus.com/")
         img(src="/assets/covetrusIcon.png" class="max-w-xs lg:max-w-128 lg:ml-16")
 
 // Reliable Support
-div(class="flex flex-col lg:flex-row items-center gap-6 w-full mt-16 px-4")
+div(class="flex flex-col lg:flex-row items-center gap-6 w-full mt-16 px-4 mb-8")
     h1(class="text-2xl lg:text-4xl  text-center lg:text-left lg:ml-16")
         | Reliable Support When You Need It
         div(class="text-base lg:text-xl font-sans text-black text-center lg:text-left max-w-xl mt-2")
