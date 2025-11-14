@@ -11,9 +11,9 @@ div(class="flex flex-col lg:flex-row items-center gap-6 w-full mt-8 px-4")
 div(class="flex flex-col lg:flex-row items-center gap-6 w-full mt-16 px-4")
     img(src="/assets/caducus.png" class="max-w-xs lg:max-w-none lg:h-100 lg:mr-32")
     h1(class="text-2xl lg:text-4xl  mt-4 lg:mt-16 text-center lg:text-left lg:ml-16")
-        | Why Choose Vetnology for Your Veterinary IT Needs
+        | Why Choose Vetnologies for Your IT Needs
         div(class="text-base lg:text-xl font-sans text-black text-center lg:text-left max-w-xl mt-2")
-            | At Vetnology, we understand the unique challenges that veterinary clinics face in today’s fast-paced, digital world. Our IT solutions are specifically designed to help your practice operate more efficiently, protect sensitive patient data, and provide the best possible care for your clients and their pets.
+            | At Vetnologies, we understand the unique challenges that veterinary clinics face in today’s fast-paced, digital world. Our IT solutions are specifically designed to help your practice operate more efficiently, protect sensitive patient data, and provide the best possible care for your clients and their pets.
 
 // Expertise in Practice Tech
 div(class="flex flex-col lg:flex-row items-center gap-6 w-full mt-16 px-4")
